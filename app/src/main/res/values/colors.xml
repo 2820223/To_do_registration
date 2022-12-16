@@ -10,4 +10,7 @@
     <color name="grey">#A5ACAC</color>
     <color name="blue" />
     <color name="main">#399DEC</color>
+    <color name="ed">#3E5C5555</color>
+    <color name="r">#22333232</color>
+    <color name="user">#99EBEBF5</color>
 </resources>

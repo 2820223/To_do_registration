@@ -1,4 +1,9 @@
 <resources>
     <string name="app_name">My Application</string>
     <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vulputate volutpat cursus euismod nunc sapien. Dictum id hac feugiat laoreet.</string>
+<string name="underlined">"By creating an account or signing you agree to our <u>"Terms and Conditions</u>
+
+</string>
+
+
 </resources>
